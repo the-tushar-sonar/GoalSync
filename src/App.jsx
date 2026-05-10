@@ -58,7 +58,7 @@ function App() {
 
       <div className="app-container">
         <header className="app-header">
-          <h1>Habit<span>Sync</span></h1>
+          <h1>Goal<span>Sync</span></h1>
         </header>
         
         {user ? (
